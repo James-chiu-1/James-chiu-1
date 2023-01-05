@@ -1,15 +1,14 @@
 <h1>Hi, I'm James! <a href="https://www.linkedin.com/in/jameschiuaz/">Cybersecurity Professional</a>
 
+  
 <h2> Certfications</h2> 
 Comptia Security+ <a href="https://www.credly.com/badges/4e382d8e-2f02-4c76-a322-3dd1251e8e4d/public_url">Certified</a>
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Microsoft Azure Sentinel Map with live Cyber attacks] (https://github.com/James-chiu-1/[laburl]
-
-
-<h2>📺 YouTube Videos</h2>
+- [Microsoft Azure Sentinel Map with live Cyber attacks Lab] <a href="https://github.com/James-chiu-1/Azure-sentinal-Honeypot-">Click Here</a>
+- [Active Directory Lab] <a href="https://github.com/James-chiu-1/Active-Directory-Lab">Click Here</a>
 
 
 <h2> 🤳 Connect with me:</h2>
