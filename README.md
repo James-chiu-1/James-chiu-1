@@ -1,8 +1,9 @@
 <h1>Hi, I'm James! Cybersecurity Professional
 
   
-<h2> Certfications</h2> 
-Comptia Security+ <a href="https://www.credly.com/badges/4e382d8e-2f02-4c76-a322-3dd1251e8e4d/public_url">Click here to see my badge</a>
+
+</p> <h2> Certfications</h2> 
+<img src="https://i.imgur.com/8n5utu0.png" height="8%" width="8%" alt="Disk Sanitization Steps"/> Comptia Security+ <a href="https://www.credly.com/badges/4e382d8e-2f02-4c76-a322-3dd1251e8e4d/public_url">Click here to see my badge</a>
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
