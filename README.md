@@ -11,7 +11,7 @@
 - [Microsoft Azure Sentinel Map with live Cyber attacks Lab] <a href="https://github.com/James-chiu-1/Azure-sentinal-Honeypot-">Click Here</a>
 - [Nessus Vulnerability Management Lab] <a href="https://github.com/James-chiu-1/Vulnerability-Management-Through-Nessus">Click Here</a>
 - [Active Directory Lab] <a href="https://github.com/James-chiu-1/Active-Directory-Lab">Click Here</a>
-- [Downloading phoneinfoga Scanning Phone Numbers to Check Digital Footprint] <a href="https://github.com/James-chiu-1/Downloading-phoneinfoga-Scanning-Phone-Numbers-to-Check-Digital-Footprint">Click Here</a>
+- [Phoneinfoga Phone number Digital Footprint Scan Lab] <a href="https://github.com/James-chiu-1/Downloading-phoneinfoga-Scanning-Phone-Numbers-to-Check-Digital-Footprint">Click Here</a>
 - [file Integrity Monitor] <a href="Pending">Pending</a>
   
   
